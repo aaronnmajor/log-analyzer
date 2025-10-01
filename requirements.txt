@@ -1,0 +1,3 @@
+# Core dependencies for log analyzer
+# No external dependencies needed - using standard library only
+# This keeps the project lightweight and easy to deploy
