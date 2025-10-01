@@ -1,0 +1,7 @@
+2024-01-15 10:00:00 [STEP:Initialization] INFO: Starting data conversion process
+2024-01-15 10:00:15 [STEP:DataValidation] WARNING: Field 'phone' has unusual format
+2024-01-15 10:01:23 [STEP:DataValidation] ERROR: Required field 'email' is missing in row 145
+2024-01-15 10:02:45 [STEP:DataTransform] ERROR: Unable to parse date field in row 289
+2024-01-15 10:03:12 [STEP:DataLoad] CRITICAL: Database connection timeout
+2024-01-15 10:03:15 [STEP:DataLoad] ERROR: Failed to insert record 456
+2024-01-15 10:04:00 [STEP:Finalization] INFO: Conversion completed with errors
