@@ -42,6 +42,8 @@ reports/
 *.csv
 *.md
 !README.md
+!QUICKSTART.md
+!examples/*.md
 
 # Logs (test files)
 logs/
